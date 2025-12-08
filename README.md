@@ -70,7 +70,7 @@
 
 1.  克隆本仓库：
     ```bash
-    git clone [https://github.com/Maplelover1/MIT6.S081.git](https://github.com/Maplelover1/MIT6.S081.git)
+    git clone https://github.com/Maplelover1/MIT6.S081.git(https://github.com/Maplelover1/MIT6.S081.git)
     cd MIT6.S081/xv6-labs-2022
     ```
 2.  编译内核 (确保已安装RISC-V工具链和QEMU)：
