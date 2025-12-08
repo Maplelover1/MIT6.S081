@@ -21,8 +21,8 @@
 
 | 目录/文件 | 描述 |
 | :--- | :--- |
-| `xv6-2020-labs/` | **xv6 核心代码库。** 这是官方提供的 **骨架代码 (Starter Code)**，包含了 xv6 的核心内核文件、Makefile、系统调用接口等。我的所有实验代码实现都在此目录下进行。 |
-| `notes/` | **学习笔记与理论分析。** 包含课程视频、教材阅读、实验设计思路、以及关键源码分析的 Markdown 笔记。 |
+| `xv6-labs-2022/` | **xv6 核心代码库。** 这是官方提供的 **骨架代码 (Starter Code)**，包含了 xv6 的核心内核文件、Makefile、系统调用接口等。我的所有实验代码实现都在此目录下进行。 |
+| `notes/` | **学习笔记与理论分析。** 包含教材阅读、实验设计思路、以及关键源码分析的 Markdown 笔记。 |
 | `.gitignore` | Git 忽略文件。确保不提交编译过程中产生的 `.o` 文件、`kernel` 二进制文件等中间产物。 |
 | `README.md` | 项目介绍文件。您现在正在阅读的文件。 |
 
@@ -70,8 +70,8 @@
 
 1.  克隆本仓库：
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/MIT6.S081.git](https://github.com/YOUR_GITHUB_USERNAME/MIT6.S081.git)
-    cd MIT6.S081/xv6-2020-labs 
+    git clone [https://github.com/Maplelover1/MIT6.S081.git](https://github.com/Maplelover1/MIT6.S081.git)
+    cd MIT6.S081/xv6-labs-2022
     ```
 2.  编译内核 (确保已安装RISC-V工具链和QEMU)：
     ```bash
